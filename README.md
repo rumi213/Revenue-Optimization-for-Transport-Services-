@@ -122,4 +122,4 @@ The findings from this analysis can help:
 
 This project demonstrates how statistical analysis and hypothesis testing can be used to evaluate business questions using real-world transportation data. By comparing revenue patterns across payment methods, the study provides actionable insights into factors that may influence taxi driver earnings.
 
--
+
